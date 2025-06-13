@@ -21,4 +21,4 @@ A simple and responsive web application to generate strong, secure passwords usi
 ├── index.html        # Main HTML file
 ├── style.css         # Styling
 └── app.js            # JavaScript logic for password generation
-
+└── Password_generator.png ✅
